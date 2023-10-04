@@ -1,1 +1,2 @@
-# linear-regression-multiple-input-and-features-scaling
+# Linear Regression Multiple Input & Features Scaling
+The provided code implements the gradient descent algorithm for a multiple feature or input and feature scaling with z-score normalitation method. I am utilizing the ['sri-lanka-house-prices-dataset'](https://www.kaggle.com/datasets/lasaljaywardena/sri-lanka-house-prices-dataset) dataset obtained from Kaggle which contains the prices of houses in various regions of Sri Lanka. However, in this implementation i will use only ten rows of data and there are three independent variables (feature) and one dependent variable (target). The independent variables are 'Baths', 'Beds', and 'House size'. The dependent variable is 'Price'.
